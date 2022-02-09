@@ -1,15 +1,6 @@
 <h1 align="center">Full Stack Developer ⚙️</h1>
-
-<p align="center">
-  <a href='https://www.linkedin.com/in/guilhermegiacominidev/'> 
-    <img alt="linkedin" height="40" width="55" src="https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo.png" style="max-width:100%;">
-  </a>
-<img alt="trybe" height="40" width="55" src="https://www.acate.com.br/wp-content/uploads/2020/01/trybe.png" style="max-width:100%;">
-  </br>
-  </br>
-</p>
-
-### Hard Skills (em desenvolvimento):
+<div align="center">
+### Studying:
 <div>
   <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
   <img alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
@@ -27,7 +18,7 @@
 <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=jpcp0614&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
-
+</div>
 ##
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)-->
