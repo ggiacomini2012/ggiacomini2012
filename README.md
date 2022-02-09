@@ -1,8 +1,7 @@
 <h1 align="center">Full Stack Developer ⚙️</h1>
 <div align="center">
-  <h3>Studying:</h3>
   <br>
-  <div>
+  <div bgcolor="red">
     <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
     <img alt="css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
     <img alt="javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%;">
@@ -13,7 +12,6 @@
   </div>
   <br>
   <div>
-    <p>📫 How to reach me:<p>
     <a href="https://www.linkedin.com/in/guilhermegiacominidev/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank">
     </a>
