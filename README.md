@@ -14,15 +14,19 @@
 </br>
 
 
-<!-- <img align="right" width="280px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif sobre tecnologia" /> -->
-
-<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=jpcp0614&show_icons=true&theme=dark&title_color=0fa36b&text_color=fff&icon_color=0fa36b&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800" alt="estatísticas da minha conta do github"/>
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
+<div>
+  <a href="https://github.com/ggiacomini2012">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggiacomini2012&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiacomini2012&layout=demo&langs_count=7&theme=midnight-purple"/>
 </div>
-
-
-<!--![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)-->
+  
+  
+<div>
+  <a href="https://www.linkedin.com/in/guilhermegiacominidev/" target="_blank">
+  <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank"></a>
+  <a href = "mailto: ggiacomini2012@gmail.com">
+  <img align="right" width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the- badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 <!--
