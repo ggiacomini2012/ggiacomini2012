@@ -15,11 +15,20 @@
   <div>
     <p>📫 How to reach me:<p>
     <a href="https://www.linkedin.com/in/guilhermegiacominidev/" target="_blank">
-    <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank"></a>
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank">
+    </a>
     <a href = "mailto: ggiacomini2012@gmail.com">
-    <img align="right" width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the- badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <img width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the- badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
   </div>
 </br>
+<div>
+  <a href="https://github.com/ggiacomini2012">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggiacomini2012&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/> &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiacomini2012&layout=demo&langs_count=7&theme=nord"/>
+</div>
+</div>
+
 
 <!--
 **ggiacomini2012/ggiacomini2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
