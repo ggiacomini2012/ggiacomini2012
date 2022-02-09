@@ -20,7 +20,7 @@
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcp0614&layout=compact&text_color=fff&bg_color=0d1117&locale=en&border_radius=8&cache_seconds=1800&theme=dark&title_color=0fa36b&custom_title=most used languages" alt="linguagens mais usadas"/>
 </div>
-##
+
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)-->
 
