@@ -1,8 +1,8 @@
  
 
 <div align="center">
-<img alt="css3" src="https://i.ibb.co/GHBX6bY/1648086810091.jpg" style="max-width:100%;">
-<h1 align="center">Full Stack Developer ⚙️</h1>
+<!-- <img alt="css3" src="https://i.ibb.co/GHBX6bY/1648086810091.jpg" style="max-width:100%;"> -->
+<img alt="css3" margin-left="70px" align="center" src="https://svgshare.com/i/fs6.svg" style="width:60%;">
   <br>
   <div bgcolor="red">
     <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
