@@ -2,7 +2,7 @@
 ‍‍‍‍‍‍‍‍‍‍‍ㅤㅤㅤㅤㅤㅤㅤ
  
 <!-- <img alt="css3" src="https://i.ibb.co/GHBX6bY/1648086810091.jpg" style="max-width:100%;"> -->
-<img alt="my-cover" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Mediamodifier-Design_%281%29.svg" style="width:600px;height:100px;">
+<h1 alt="my-cover" style="width:600px;height:100px;"> Software Developer </h1>
   <br>
   <div bgcolor="red">
     <img alt="html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
