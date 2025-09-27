@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/guilhermegiacominidev/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="100px" target="_blank">
     </a>
-    <a href="mailto:ggiacomini2012@gmail.com">
+    <a href="https://bit.ly/ggiacomini2012">
       <img width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
